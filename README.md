@@ -1,4 +1,5 @@
 # 100DaysCodingChallenege
+Solving atleast a problem daily for 100 consecutive days
 So in this 100 Days Coding challenge I will be solving atleast a coding problem daily from
 the following sites :- 
 1. **Codeforces**
