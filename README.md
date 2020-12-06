@@ -1,8 +1,8 @@
-# 100DaysCodingChallenege
-<br/>
- This is a 100 Days Coding challenge 
-<br/>
-<br/>
+---
+# 100DaysCodingChallenege 
+
+ We will be solving at least one question daily for next 100 days  
+---
 I will be solving atleast a coding problem daily
  from the following sites :- 
 1. **Codeforces**
