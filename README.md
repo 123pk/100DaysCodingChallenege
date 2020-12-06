@@ -1,6 +1,6 @@
 # 100DaysCodingChallenege
 <br/>
- this is a 100 Days Coding challenge 
+ This is a 100 Days Coding challenge 
 <br/>
 <br/>
 I will be solving atleast a coding problem daily
