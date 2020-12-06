@@ -1,8 +1,9 @@
 # 100DaysCodingChallenege
 <br/>
-So in this 100 Days Coding challenge I will be solving atleast a coding problem daily
+ this is a 100 Days Coding challenge 
 <br/>
-
+<br/>
+I will be solving atleast a coding problem daily
  from the following sites :- 
 1. **Codeforces**
 2. **Codechef**
