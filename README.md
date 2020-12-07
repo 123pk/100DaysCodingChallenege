@@ -62,3 +62,5 @@ My rating on the following sites are as follows we will check the change due to 
  **Day7**
  
  1. Spiral matrix II [  https://leetcode.com/problems/spiral-matrix-ii/ ]
+ 2. Palindromic Substring [  https://leetcode.com/problems/palindromic-substrings/]
+ 3. Longest Plaindromic subtring  [  https://leetcode.com/problems/longest-palindromic-substring/] 
