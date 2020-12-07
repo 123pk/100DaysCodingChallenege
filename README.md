@@ -16,16 +16,16 @@ I will be solving atleast a coding problem daily
 I am starting this challenge on Dec 1 2020 . 
 My rating on the following sites are as follows we will check the change due to this challenge.
 
-**Day 1
+**Day 1**
 
  1.  Maximum Depth of Binary Tree  [  https://leetcode.com/problems/maximum-depth-of-binary-tree/ ]
  
- **Day 2
+ **Day 2**
  
  1. Div.64       [   https://codeforces.com/problemset/problem/887/A ]
  2. Knapsack     [   https://codeforces.com/contest/1446/problem/A ]
  
- **Day 3
+ **Day 3**
  
  1. Save Konoha  [  https://www.codechef.com/problems/SAVKONO ]
  2. Air conditioner [  https://codeforces.com/problemset/problem/1304/C ]
@@ -41,7 +41,7 @@ My rating on the following sites are as follows we will check the change due to 
  4. Rotate image [  https://leetcode.com/problems/rotate-image/ ]
  5. The kth factor of n [  https://leetcode.com/problems/the-kth-factor-of-n/ ]
  
- **Day 5
+ **Day 5**
  
  1. Redundant Redundancy [  https://atcoder.jp/contests/arc110/tasks/arc110_a ]
  2. Positive prefixes [  https://www.codechef.com/DEC20B/problems/POSPREFS ]
@@ -49,7 +49,7 @@ My rating on the following sites are as follows we will check the change due to 
  4. can place flowers [  https://leetcode.com/problems/can-place-flowers/ ]
  5. FakeReportData [  https://arena.topcoder.com/#/u/practiceCode/18428/154470/16665/2/335156 ]
  
- **Day 6
+ **Day 6**
  
  1. Goal Parser Interpretation [  https://leetcode.com/problems/goal-parser-interpretation/ ]
  2. Max number of K- sum pairs [  https://leetcode.com/problems/max-number-of-k-sum-pairs/ ]
@@ -58,3 +58,7 @@ My rating on the following sites are as follows we will check the change due to 
  5. Farmer and his plot [  https://www.codechef.com/problems/RECTSQ ]
  6. Avoid trygub [  https://codeforces.com/contest/1450/problem/A ]
  7. Balls of steel [  https://codeforces.com/contest/1450/problem/B ]
+ 
+ **Day7**
+ 
+ 1. Spiral matrix II [  https://leetcode.com/problems/spiral-matrix-ii/ ]
