@@ -1,7 +1,18 @@
 /*
 Platform :- leetcode
 Question :- spiral matrix II
-
+Approach :- I have used two variables f & g to determine in which direction I need to move and an visited matrix to track record of the visited 
+            cells of matrix .
+            i. Create a visited matrix of n*n and store 0 in it & similarly with answer matrix 
+            ii. initialised  d=1 and ans[0][0] = d and simulatenously g=0,f=0 and visited[0][0]=1
+            iii. let us pre determine what we need to do according to various combination values of f & g
+                1. if f=0 && g==0 go from left to right  and put the value of d in ans matrix at corresponding index and increment d if we reach a vsited node or last cell of 
+                   that row ---> make g=1
+                2. if f==0 && g==1 go from top to bottom and perform same operation . if we get to the visited cell or last cell while going from top to bottom 
+                   ---> make f=1
+                3. if f==1 && g==1 go from right to left and perform similar opeeration and update d respectively ----> make g=0 when we reach a visted node or last node  
+                4. if f==1 && g==0 go from bottom to up perform simlar operation performed above respectively ----> make f=0 when we reach a visted node or last node
+                5. we will repeat step 1,2,3,4 until ( d <= (n*n)) as maximum number that can be enetred in matrix in (n*n).
 */
 
 class Solution {
