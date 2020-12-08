@@ -64,3 +64,7 @@ My rating on the following sites are as follows we will check the change due to 
  1. Spiral matrix II [  https://leetcode.com/problems/spiral-matrix-ii/ ]
  2. Palindromic Substring [  https://leetcode.com/problems/palindromic-substrings/]
  3. Longest Plaindromic subtring  [  https://leetcode.com/problems/longest-palindromic-substring/] 
+ 
+ **Day8**
+ 
+ 1.Pairs of Songs With Total Durations Divisible by 60 [  https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/]
