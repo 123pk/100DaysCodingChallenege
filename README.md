@@ -68,3 +68,12 @@ My rating on the following sites are as follows we will check the change due to 
  **Day8**
  
  1.Pairs of Songs With Total Durations Divisible by 60 [  https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/]
+ 
+ **Day9**
+ 
+ 1. Hail Xor( HXOR) [  https://www.codechef.com/DEC20B/problems/HXOR ]
+ 2. Equalize prizes [  https://codeforces.com/problemset/problem/1183/B ]
+ 
+ **Day10**
+ 
+ 1. Valid Mountain Array [  https://leetcode.com/problems/valid-mountain-array/]
