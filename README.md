@@ -77,3 +77,4 @@ My rating on the following sites are as follows we will check the change due to 
  **Day10**
  
  1. Valid Mountain Array [  https://leetcode.com/problems/valid-mountain-array/]
+ 2. Petya and staircases [  https://codeforces.com/problemset/problem/362/B ]
