@@ -85,3 +85,5 @@ My rating on the following sites are as follows we will check the change due to 
  1. Milly and string [  https://www.hackerearth.com/problem/algorithm/milly-and-strings/]
  2. Remove dupliates from sorted array [  https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/]
  3. String Generation [  https://codeforces.com/contest/1461/problem/A]
+ 4. Is this a binary search tree ? [  https://www.hackerrank.com/challenges/is-binary-search-tree/problem ]
+ 
