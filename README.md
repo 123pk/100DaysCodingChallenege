@@ -79,3 +79,8 @@ My rating on the following sites are as follows we will check the change due to 
  1. Valid Mountain Array [  https://leetcode.com/problems/valid-mountain-array/]
  2. Petya and staircases [  https://codeforces.com/problemset/problem/362/B ]
  3. Sherlock and XOR [ https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/sherlock-and-xor/submissions/ ]
+ 
+ **Day11**
+ 
+ 1. Milly and string [  https://www.hackerearth.com/problem/algorithm/milly-and-strings/]
+ 2. Remove dupliates from sorted array [  https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/]
