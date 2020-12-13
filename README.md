@@ -100,4 +100,8 @@ My rating on the following sites are as follows we will check the change due to 
  
  1. Count of matches in tournamnet [ https://leetcode.com/problems/count-of-matches-in-tournament/ ]
  2. Partitioning into Minimum Number of Deci Binary numbers [ https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/]
+ 3. ABC preparation [  https://atcoder.jp/contests/abc185/tasks/abc185_a]
+ 4. Smartphone Addiction [ https://atcoder.jp/contests/abc185/tasks/abc185_b ]
+ 5. Duodecim ferra [ https://atcoder.jp/contests/abc185/tasks/abc185_c ]
+ 6. Stamp [ https://atcoder.jp/contests/abc185/tasks/abc185_d]
  
