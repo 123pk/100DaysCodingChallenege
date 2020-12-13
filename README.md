@@ -87,3 +87,17 @@ My rating on the following sites are as follows we will check the change due to 
  3. String Generation [  https://codeforces.com/contest/1461/problem/A]
  4. Is this a binary search tree ? [  https://www.hackerrank.com/challenges/is-binary-search-tree/problem ]
  
+ **Day12**
+ 
+ 1. Binary Tree Inorder Traversal [  https://leetcode.com/problems/binary-tree-inorder-traversal/]
+ 2. Binary Tree Postorder Traversal [ https://leetcode.com/problems/binary-tree-postorder-traversal/]
+ 3. Count number of consistent string [ https://leetcode.com/problems/count-the-number-of-consistent-strings/ ]
+ 4. Sum of Absolute Difference in a Sorted Array [ https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/]
+ 5. Stone Game VI [ https://leetcode.com/problems/stone-game-vi/ ]
+ 6. Counting sort I [ https://www.hackerrank.com/challenges/countingsort1/problem ]
+ 
+ **Day13**
+ 
+ 1. Count of matches in tournamnet [ https://leetcode.com/problems/count-of-matches-in-tournament/ ]
+ 2. Partitioning into Minimum Number of Deci Binary numbers [ https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/]
+ 
