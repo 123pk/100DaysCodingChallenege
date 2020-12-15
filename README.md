@@ -105,3 +105,16 @@ My rating on the following sites are as follows we will check the change due to 
  5. Duodecim ferra [ https://atcoder.jp/contests/abc185/tasks/abc185_c ]
  6. Stamp [ https://atcoder.jp/contests/abc185/tasks/abc185_d]
  
+ **Day14**
+ 
+ 1. Vaccine 1 [  https://www.codechef.com/DEC20B/problems/VACCINE1]
+ 2. Even pair sum [ https://www.codechef.com/DEC20B/problems/EVENPSUM]
+ 3. Vaccine 2 [ https://www.codechef.com/DEC20B/problems/VACCINE2]
+ 4. Positive Prefixes [  https://www.codechef.com/DEC20B/problems/POSPREFS]
+ 
+ **Day15**
+ 
+ 1. A - favourite sequence [ https://codeforces.com/contest/1462/problem/A]
+ 2. B - Last Year's Substring [ https://codeforces.com/contest/1462/problem/B ]
+ 3. C - Unique Number [ https://codeforces.com/contest/1462/problem/C]
+ 4. Square of sorted array [ https://leetcode.com/problems/squares-of-a-sorted-array/]
