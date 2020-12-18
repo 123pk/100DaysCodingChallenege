@@ -132,4 +132,4 @@ My rating on the following sites are as follows we will check the change due to 
  
  1. A- Dungeon [  https://codeforces.com/contest/1463/problem/A]
  2. B- Find The Array [ https://codeforces.com/contest/1463/problem/B]
- 3. 
+ 3. Incraesing Triplet Subsequence [ https://leetcode.com/problems/increasing-triplet-subsequence/]
