@@ -118,3 +118,18 @@ My rating on the following sites are as follows we will check the change due to 
  2. B - Last Year's Substring [ https://codeforces.com/contest/1462/problem/B ]
  3. C - Unique Number [ https://codeforces.com/contest/1462/problem/C]
  4. Square of sorted array [ https://leetcode.com/problems/squares-of-a-sorted-array/]
+ 
+ **Day16**
+ 
+ 1. D- Add to Neighbours and Remove [ https://codeforces.com/contest/1462/problem/D]
+ 
+ **Day17**
+ 
+ 1. 4Sum II [ https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3569/]
+ 2. REC15A [ https://www.codechef.com/RC152020/problems/REC15A]
+ 
+ **Day18**
+ 
+ 1. A- Dungeon [  https://codeforces.com/contest/1463/problem/A]
+ 2. B- Find The Array [ https://codeforces.com/contest/1463/problem/B]
+ 3. 
