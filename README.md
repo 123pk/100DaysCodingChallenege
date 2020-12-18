@@ -134,3 +134,4 @@ My rating on the following sites are as follows we will check the change due to 
  2. B- Find The Array [ https://codeforces.com/contest/1463/problem/B]
  3. Incraesing Triplet Subsequence [ https://leetcode.com/problems/increasing-triplet-subsequence/]
  4. Permutations [  https://leetcode.com/problems/permutations/]
+ 5. Training [ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6]
