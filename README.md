@@ -135,3 +135,28 @@ My rating on the following sites are as follows we will check the change due to 
  3. Incraesing Triplet Subsequence [ https://leetcode.com/problems/increasing-triplet-subsequence/]
  4. Permutations [  https://leetcode.com/problems/permutations/]
  5. Training [ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6]
+
+**Day19**
+
+1. A- Brick [ https://atcoder.jp/contests/abc186/tasks/abc186_a]
+2. B- Blocks on Grid [ https://atcoder.jp/contests/abc186/tasks/abc186_b]
+3. C- Unlucky 7 [ https://atcoder.jp/contests/abc186/tasks/abc186_c]
+4. D- Sum of Difference [ https://atcoder.jp/contests/abc186/tasks/abc186_d]
+5. Array swaps [ https://www.codechef.com/UWCOI21/problems/UWCOI21B]
+6. Hidden Numbers [ https://www.codechef.com/UWCOI21/problems/UWCOI21A]
+7. Efficient Delivery [ https://www.codechef.com/UWCOI21/problems/UWCOI21D]
+
+**Day20**
+
+1. A. In-game Chat  [ https://codeforces.com/contest/1465/problem/A]
+2. B. Fair Numbers [ https://codeforces.com/contest/1465/problem/B]
+3. B. Move and Turn [ https://codeforces.com/contest/1459/problem/B]
+
+**Day21**
+
+1. Maximum Erasure Value [ https://leetcode.com/problems/maximum-erasure-value/]
+2. Reformat Phone Number [ https://leetcode.com/problems/reformat-phone-number/]
+
+**Day22**
+
+1. Self-Destructing Strings [ https://www.codechef.com/COOK125A/problems/SDSTRING]
