@@ -160,3 +160,15 @@ My rating on the following sites are as follows we will check the change due to 
 **Day22**
 
 1. Self-Destructing Strings [ https://www.codechef.com/COOK125A/problems/SDSTRING]
+
+**Day23**
+
+1. Choco Prime [ https://www.codechef.com/NQST2020/problems/CPRIME]
+2. Help Santa [ https://www.codechef.com/NQST2020/problems/HELPSANT]
+3. Ice Wrapped Sweets [ https://www.codechef.com/NQST2020/problems/ICEWRAP]
+
+**Day24**
+
+1. Minimum Attendance Requirement [ https://www.codechef.com/COOK125A/problems/ATTENDU]
+2. Catch the thief [ https://www.codechef.com/COOK125A/problems/CATHIEF]
+
