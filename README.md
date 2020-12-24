@@ -166,6 +166,7 @@ My rating on the following sites are as follows we will check the change due to 
 1. Choco Prime [ https://www.codechef.com/NQST2020/problems/CPRIME]
 2. Help Santa [ https://www.codechef.com/NQST2020/problems/HELPSANT]
 3. Ice Wrapped Sweets [ https://www.codechef.com/NQST2020/problems/ICEWRAP]
+4. Next Greater Element III [https://leetcode.com/problems/next-greater-element-iii/]
 
 **Day24**
 
