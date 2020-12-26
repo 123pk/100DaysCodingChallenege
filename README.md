@@ -174,3 +174,16 @@ My rating on the following sites are as follows we will check the change due to 
 2. Catch the thief [ https://www.codechef.com/COOK125A/problems/CATHIEF]
 3. Swap Nodes in Pairs [ https://leetcode.com/problems/swap-nodes-in-pairs/]
 
+**Day25**
+
+1. Four Segments [ https://codeforces.com/contest/1468/problem/E]
+2. Waste sorting [ https://codeforces.com/contest/1468/problem/N]
+
+**Day26**
+
+1. Average wating time [ https://leetcode.com/problems/average-waiting-time/]
+2. Number of students unable to eat lunch [https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/]
+3. Maximum binary string after change [https://leetcode.com/problems/maximum-binary-string-after-change/]
+4. Multiple occurences  [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/multiple-occurence-97c00160/]
+5. The Minimum Cost [ https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/min-cost-2-fe2d3308/]
+
