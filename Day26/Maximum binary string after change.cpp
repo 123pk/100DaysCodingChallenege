@@ -1,3 +1,10 @@
+/*
+Platform :- Leetcode
+Approach :- if you will read the problem carefully you will find that you can always group '0's all together and let c= total '0's then we can convert (c-1)of them into '1's
+            rest we will be '1's in our string . we will add '1' up to staring index where '0' occured
+
+*/
+
 class Solution {
 public:
     string maximumBinaryString(string binary) {
