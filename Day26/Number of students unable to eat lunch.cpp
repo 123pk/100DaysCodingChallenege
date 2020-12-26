@@ -1,3 +1,9 @@
+/*
+Platform :- Leetcode
+Approach :- Bruteforce and eliminate the types and studets choice accordingly 
+
+*/
+
 class Solution {
 public:
     int countStudents(vector<int>& t, vector<int>& q) {
