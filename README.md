@@ -187,3 +187,18 @@ My rating on the following sites are as follows we will check the change due to 
 4. Multiple occurences  [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/multiple-occurence-97c00160/]
 5. The Minimum Cost [ https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/min-cost-2-fe2d3308/]
 
+**Day27**
+
+1. Maximum occuring digit [ https://practice.geeksforgeeks.org/contest-problem/number-with-max-occourence-of-digit-k/1/]
+2. Maximum sum contihuous subarray [ https://practice.geeksforgeeks.org/contest-problem/b882a3ac7c399bd0a328104fdc7c198edeee30e5/1/]
+3. One Zero swaps [ https://www.codechef.com/LTIME91A/problems/SWAP10HG]
+4. Three Letters [ https://www.codechef.com/LTIME91A/problems/THREE]
+5. Sed Sequences [ https://www.codechef.com/LTIME91A/problems/SEDARR]
+6. Special Square [ https://codedrills.io/contests/amrita-icpc-practice-session-2/problems/special-square]
+7. Pattern A [ https://www.codechef.com/PTRN2020/problems/ITGUY35]
+8. Pattern C [https://www.codechef.com/PTRN2020/problems/ITGUY37]
+9. Pattern D [ https://www.codechef.com/PTRN2020/problems/ITGUY38]
+10. Pattern E [ https://www.codechef.com/PTRN2020/problems/ITGUY39]
+11. Pattern F [ https://www.codechef.com/PTRN2020/problems/ITGUY40]
+12. Pattern I [https://www.codechef.com/PTRN2020/problems/ITGUY43]
+13. Pattern J [ https://www.codechef.com/PTRN2020/problems/ITGU44]
