@@ -1,6 +1,6 @@
 /*
 Platform :- Codehcef
-Problem :- Pattern D
+Problem :- Pattern A
 Approach :- Analyse and bruteforce
 */
 #include<bits/stdc++.h>
