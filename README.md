@@ -202,3 +202,14 @@ My rating on the following sites are as follows we will check the change due to 
 11. Pattern F [ https://www.codechef.com/PTRN2020/problems/ITGUY40]
 12. Pattern I [https://www.codechef.com/PTRN2020/problems/ITGUY43]
 13. Pattern J [ https://www.codechef.com/PTRN2020/problems/ITGU44]
+
+**Day28**
+
+1. First and last position of element in sorted order [ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/]
+2. A. Regular Bracket Sequence  [ https://codeforces.com/contest/1469/problem/A]
+
+**Day29**
+
+1. B. Red and Blue  [ https://codeforces.com/contest/1469/problem/B]
+2. The Begining Era Of Cyberverse [ https://www.codechef.com/BYTR20A/problems/CYBV]
+3. Cybalphabit [ https://www.codechef.com/BYTR20A/problems/CAB]
