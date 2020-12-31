@@ -213,3 +213,14 @@ My rating on the following sites are as follows we will check the change due to 
 1. B. Red and Blue  [ https://codeforces.com/contest/1469/problem/B]
 2. The Begining Era Of Cyberverse [ https://www.codechef.com/BYTR20A/problems/CYBV]
 3. Cybalphabit [ https://www.codechef.com/BYTR20A/problems/CAB]
+
+**Day30**
+
+1. A. Bovine Delima [ https://codeforces.com/contest/1466/problem/A]
+2. B. Last minute enhancements [ https://codeforces.com/contest/1466/problem/B]
+
+**Day31**
+
+1. C. Canine Poetry [ https://codeforces.com/contest/1466/problem/C]
+2. Pseudo Plaindromic paths in a Binary Tree [ https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/]
+3. Largest Rectangle in  Histogram [ https://leetcode.com/problems/largest-rectangle-in-histogram/]
