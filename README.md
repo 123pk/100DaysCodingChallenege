@@ -224,3 +224,17 @@ My rating on the following sites are as follows we will check the change due to 
 1. C. Canine Poetry [ https://codeforces.com/contest/1466/problem/C]
 2. Pseudo Plaindromic paths in a Binary Tree [ https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/]
 3. Largest Rectangle in  Histogram [ https://leetcode.com/problems/largest-rectangle-in-histogram/]
+
+**Day32**
+
+1. Check Array Formation Through Concatenation [ https://leetcode.com/problems/check-array-formation-through-concatenation/]
+
+**Day33**
+
+1. A - Large Digits [https://atcoder.jp/contests/abc187/tasks/abc187_a]
+2. B - Gentle Piars [https://atcoder.jp/contests/abc187/tasks/abc187_b]
+3. C - 1SAT [ https://atcoder.jp/contests/abc187/tasks/abc187_c]
+4. D - Choose me [ https://atcoder.jp/contests/abc187/tasks/abc187_d]
+5. Make the Array even https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/make-even-8ced0d4b/]
+6. Maximum Profit [ https://www.hackerearth.com/problem/algorithm/maximum-profit-5-c3c2ce7c/]
+7. Mathematically Beautiful Numbers [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mathematically-beautiful-numbers-174a158e/]
