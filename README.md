@@ -238,3 +238,8 @@ My rating on the following sites are as follows we will check the change due to 
 5. Make the Array even https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/make-even-8ced0d4b/]
 6. Maximum Profit [ https://www.hackerearth.com/problem/algorithm/maximum-profit-5-c3c2ce7c/]
 7. Mathematically Beautiful Numbers [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mathematically-beautiful-numbers-174a158e/]
+
+**Day34**
+
+1. Maximum Units on a Truck [ https://leetcode.com/problems/maximum-units-on-a-truck/]
+2. Count Good Meals [ https://leetcode.com/problems/count-good-meals/]
