@@ -1,8 +1,8 @@
-/*
+"""
 Platform :- Leetcode
 Problem :- Count Good Meals
 Approach :- For all powers of 2 in given range find if ( power_of_2 - arr[i] ) present or not if present add the count of that element to answer don't miss MOD
-*/
+"""
 
 class Solution:
     def countPairs(self, arr: List[int]) -> int:
