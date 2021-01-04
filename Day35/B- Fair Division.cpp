@@ -1,6 +1,11 @@
 /*
 Platform :- Codeforces
 Problem :- B - Fair Division 
+Approach :-  If you will read the problem you will find that your answer depends on number of 1's in array , let x= no of 1's in array
+            then 
+            Case 1 :- if ( x == 0) then we can equally distribute if number of 2's is even
+            Case 2 :- if ( x % 2 == 0 ) the also we can eqally distribute 
+            Case 3 :-  we can't be able to distribute equally
 */
 #include<bits/stdc++.h>
 using namespace std;
