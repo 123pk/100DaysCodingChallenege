@@ -1,3 +1,10 @@
+/*
+Platform :- Codeoforces
+Problem :- D - Even Odd Game
+Approach :- we will focus on increasing our value and in parallel try to minimise other score.
+            we will create two priority queues ove storing even values and one for odd values in each turn we will make our move optimally to win 
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
