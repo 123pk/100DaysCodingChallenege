@@ -1,3 +1,9 @@
+/*
+Platform :- Codeforces
+Problem :- C - Long Jumps
+Approach :- we will create a vector to store maximum till that index and we print max value
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
