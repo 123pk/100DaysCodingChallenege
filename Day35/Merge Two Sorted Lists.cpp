@@ -1,3 +1,9 @@
+/*
+Platform :- Leetcode
+Problem :- Merge two sorted list 
+Approach :- create a new pointer and new list for storing the sorted array after merging both list and will compare the elements and corrrespndingly add it to our list
+*/
+
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
