@@ -10,7 +10,8 @@ int main(){
     int t;
     cin>>t;
     while(t--){
-        int n,x;
+        int n;
+        long int x;
         cin>>n>>x;
         
         long int A[n];
