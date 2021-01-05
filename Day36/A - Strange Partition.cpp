@@ -15,7 +15,7 @@ int main(){
         cin>>n>>x;
         
         long int A[n];
-        long int tot=0;
+        long long tot=0;
         long long sum=0;
         for(int i=0;i<n;++i){
             cin>>A[i];
