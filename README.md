@@ -243,3 +243,21 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Maximum Units on a Truck [ https://leetcode.com/problems/maximum-units-on-a-truck/]
 2. Count Good Meals [ https://leetcode.com/problems/count-good-meals/]
+
+**Day35**
+
+1. A - Cards for friends [ https://codeforces.com/contest/1472/problem/A]
+2. B - Fair Division [ https://codeforces.com/contest/1472/problem/B]
+3. C - Long Jumps [https://codeforces.com/contest/1472/problem/C]
+4. D - Even Odd Game [ https://codeforces.com/contest/1472/problem/D]
+5. Merge two sorted list [https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3592/]
+
+**Day36**
+
+1. A - Strange Partition [ https://codeforces.com/contest/1471/problem/A]
+2. B - Strange List [ https://codeforces.com/contest/1471/problem/B]
+
+**Day37**
+
+1. C - Strange Birthday Party [https://codeforces.com/contest/1471/problem/C]
+2. Kth Missing Positive Number [https://leetcode.com/problems/kth-missing-positive-number/]
