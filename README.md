@@ -278,4 +278,6 @@ My rating on the following sites are as follows we will check the change due to 
 1. Simple math 2 [ https://atcoder.jp/contests/arc111/tasks/arc111_a]
 2. Calculate money of leetcode bank [https://leetcode.com/problems/calculate-money-in-leetcode-bank/]
 3. Maximum score from removing substring [https://leetcode.com/problems/maximum-score-from-removing-substrings/]
+4. BuyOneGetOneFree [ https://arena.topcoder.com/#/u/coding/18435/16754/2]
+5. Organic Chemistry [ https://arena.topcoder.com/#/u/coding/18435/16669/2]
 
