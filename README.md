@@ -261,3 +261,21 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. C - Strange Birthday Party [https://codeforces.com/contest/1471/problem/C]
 2. Kth Missing Positive Number [https://leetcode.com/problems/kth-missing-positive-number/]
+
+**Day38**
+
+1. C- Divison [https://codeforces.com/contest/1445/problem/C]
+2. Longest substring without repeating characters [https://leetcode.com/problems/longest-substring-without-repeating-characters/]
+
+**Day39**
+
+1. A - Wizard of Orz [ https://codeforces.com/contest/1467/problem/A]
+2. B - Hills and Valley [ https://codeforces.com/contest/1467/problem/B]
+3. Check if two strings are equivalent [https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/]
+
+**Day40**
+
+1. Simple math 2 [ https://atcoder.jp/contests/arc111/tasks/arc111_a]
+2. Calculate money of leetcode bank [https://leetcode.com/problems/calculate-money-in-leetcode-bank/]
+3. Maximum score from removing substring [https://leetcode.com/problems/maximum-score-from-removing-substrings/]
+
