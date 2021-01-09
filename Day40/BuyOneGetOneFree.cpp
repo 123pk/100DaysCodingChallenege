@@ -13,9 +13,8 @@ class BuyOneGetOneFree
          {
          int tot=0;
          sort(prices.begin(),prices.end(),greater<int>());
-         int z=(prices.size()/2);
-              if(prices.size()%2)z++;
-         for(int i=0;i<z;++i){tot+=prices[i];}
+         int z=(prices.size());
+         for(int i=0;i<z;i+=2){tot+=prices[i];}
               return tot;
      }
     };
