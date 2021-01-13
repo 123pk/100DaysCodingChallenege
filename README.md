@@ -281,3 +281,26 @@ My rating on the following sites are as follows we will check the change due to 
 4. BuyOneGetOneFree [ https://arena.topcoder.com/#/u/coding/18435/16754/2]
 5. Organic Chemistry [ https://arena.topcoder.com/#/u/coding/18435/16669/2]
 
+**Day41**
+
+1. Three point short [ https://atcoder.jp/contests/abc188/tasks/abc188_a]
+2. Orthogonality [ https://atcoder.jp/contests/abc188/tasks/abc188_b]
+3. Decode Xored Array [ https://leetcode.com/contest/weekly-contest-223/problems/decode-xored-array/]
+4. Swapping nodes in linked list [ https://leetcode.com/contest/weekly-contest-223/problems/swapping-nodes-in-a-linked-list/]
+
+**Day42**
+
+1. Merge sorted Array [ https://leetcode.com/problems/merge-sorted-array/]
+
+**Day43**
+
+1. Add two numbers [ https://leetcode.com/problems/add-two-numbers/]
+2. Fair selection [ https://www.codechef.com/problems/FAIRELCT]
+
+**Day44**
+
+1. Boats to save people [ https://leetcode.com/problems/boats-to-save-people/]
+2. Container with most warter [ https://leetcode.com/problems/container-with-most-water/]
+
+
+
