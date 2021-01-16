@@ -301,6 +301,25 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Boats to save people [ https://leetcode.com/problems/boats-to-save-people/]
 2. Container with most warter [ https://leetcode.com/problems/container-with-most-water/]
+3. Chef and Division 3 [ https://www.codechef.com/problems/DIVTHREE]
 
+**Day45**
 
+1. A - Replacing elements [ https://codeforces.com/contest/1473/problem/A] 
+2. B - String Lcm [ https://codeforces.com/contest/1473/problem/B]
+3. C - No more inversions [https://codeforces.com/contest/1473/problem/C]
+
+**Day46**
+
+1. Climbing stairs [https://leetcode.com/problems/climbing-stairs/]
+2. Fibonacci number [https://leetcode.com/problems/fibonacci-number/]
+3. Get maximum in generated array [https://leetcode.com/problems/get-maximum-in-generated-array/]
+4. Friend Finder 
+5. Paired Multiple 
+
+**Day47**
+
+1. A - Two sequences 2 [https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a]
+2. B - Mex Boxes [https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b]
+3. Kth largest element in array [https://leetcode.com/problems/kth-largest-element-in-an-array/]
 
