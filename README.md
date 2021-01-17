@@ -323,3 +323,7 @@ My rating on the following sites are as follows we will check the change due to 
 2. B - Mex Boxes [https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b]
 3. Kth largest element in array [https://leetcode.com/problems/kth-largest-element-in-an-array/]
 
+**Day48**
+
+1. Number of rectangles that can form the largest square [https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/]
+2. Tuple with same product [https://leetcode.com/problems/tuple-with-same-product/]
