@@ -327,3 +327,15 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Number of rectangles that can form the largest square [https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/]
 2. Tuple with same product [https://leetcode.com/problems/tuple-with-same-product/]
+3. Count sorted vowels string [ https://leetcode.com/problems/count-sorted-vowel-strings/]
+
+**Day49**
+
+1. Delete Node in BST [https://leetcode.com/problems/delete-node-in-a-bst/]
+2. Max Number of K sum pairs [https://leetcode.com/problems/max-number-of-k-sum-pairs/]
+
+**Day50**
+
+1. Longest Palindromic substring [ https://leetcode.com/problems/longest-palindromic-substring/]
+2. A - Puzzle from future [https://codeforces.com/contest/1474/problem/A]
+3. B - Different Divisors [https://codeforces.com/contest/1474/problem/B]
