@@ -339,3 +339,14 @@ My rating on the following sites are as follows we will check the change due to 
 1. Longest Palindromic substring [ https://leetcode.com/problems/longest-palindromic-substring/]
 2. A - Puzzle from future [https://codeforces.com/contest/1474/problem/A]
 3. B - Different Divisors [https://codeforces.com/contest/1474/problem/B]
+
+**Day51**
+
+1. Valid Parentheses [https://leetcode.com/problems/valid-parentheses/]
+
+**Day52**
+
+1. find the most competitive sequence [https://leetcode.com/problems/find-the-most-competitive-subsequence/]
+2. Number Guessing [ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/00000000000588f4]
+3. Mural [https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/0000000000058b89]
+4. Building Palindromes [https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda/0000000000119866]
