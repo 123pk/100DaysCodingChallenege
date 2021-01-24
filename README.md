@@ -350,3 +350,24 @@ My rating on the following sites are as follows we will check the change due to 
 2. Number Guessing [ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/00000000000588f4]
 3. Mural [https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/0000000000058b89]
 4. Building Palindromes [https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda/0000000000119866]
+
+**Day53**
+
+1. Determine if two strings are close [https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/]
+
+**Day54**
+
+1. A - Slot [https://atcoder.jp/contests/abc189/tasks/abc189_a]
+2. B - Alcoholic [https://atcoder.jp/contests/abc189/tasks/abc189_b]
+3. C - Mandarin Orange [https://atcoder.jp/contests/abc189/tasks/abc189_c]
+4. Decode Xored Array [https://leetcode.com/problems/decode-xored-permutation/]
+5. Find the Highest Altitude [https://leetcode.com/contest/biweekly-contest-44/problems/find-the-highest-altitude/]
+
+**Day55**
+
+1. Latest Time By replacing hidden digits [https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/]
+2. Find the kth Xored Array [https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/]
+3. A chessboard https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chessboard-2-8f06e380/]
+4. The GCD Function [https://www.hackerearth.com/problem/algorithm/gcd-function-9fe49c14/]
+5. Replace the String [ https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/make-them-equal-ac0bab4a/]
+6. Scoreboard Queries [https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/tournament-and-ranks-67cd4b7e/]
