@@ -378,6 +378,7 @@ My rating on the following sites are as follows we will check the change due to 
 2. B - New Year's Number [https://codeforces.com/contest/1475/problem/B]
 3. Prime Tuples [https://www.codechef.com/COOK126B/problems/PTUPLES]
 4. Maximise Islands [https://www.codechef.com/COOK126B/problems/MINIL]
+5. Check if all 1's are atleast length K places away [ https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/]
 
 **Day57**
 
