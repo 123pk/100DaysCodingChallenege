@@ -371,3 +371,18 @@ My rating on the following sites are as follows we will check the change due to 
 4. The GCD Function [https://www.hackerearth.com/problem/algorithm/gcd-function-9fe49c14/]
 5. Replace the String [ https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/make-them-equal-ac0bab4a/]
 6. Scoreboard Queries [https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/tournament-and-ranks-67cd4b7e/]
+
+**Day56**
+
+1. A - Odd Divisors [https://codeforces.com/contest/1475/problem/A]
+2. B - New Year's Number [https://codeforces.com/contest/1475/problem/B]
+3. Prime Tuples [https://www.codechef.com/COOK126B/problems/PTUPLES]
+4. Maximise Islands [https://www.codechef.com/COOK126B/problems/MINIL]
+
+**Day57**
+
+1. Min Sum ( Codenation innovation labs Hiring contest ) [https://codeforces.com/blog/entry/87234]
+
+**Day58**
+
+1. Bit Queries ( Codenation innovation labs Hiring Contest ) [https://codeforces.com/blog/entry/87234]
