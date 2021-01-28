@@ -387,3 +387,14 @@ My rating on the following sites are as follows we will check the change due to 
 **Day58**
 
 1. Bit Queries ( Codenation innovation labs Hiring Contest ) [https://codeforces.com/blog/entry/87234]
+2. A - Directional move [https://codeforces.com/gym/102942/problem/A]
+3. B - Make all odd [https://codeforces.com/gym/102942/problem/B]
+4. C - Team [https://codeforces.com/gym/102942/problem/C]
+5. D - XOR Game [https://codeforces.com/gym/102942/problem/D]
+
+**Day59**
+
+1. A - Nezzar and Colorful Balls [ https://codeforces.com/contest/1478/problem/A]
+2. Triangles [https://www.e-olymp.com/en/contests/19316/problems/207756]
+3. Mad Scientist [https://www.e-olymp.com/en/contests/19316/problems/207757]
+4. Smallest string with a given numeric value [https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/]
