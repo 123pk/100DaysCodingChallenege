@@ -398,3 +398,4 @@ My rating on the following sites are as follows we will check the change due to 
 2. Triangles [https://www.e-olymp.com/en/contests/19316/problems/207756]
 3. Mad Scientist [https://www.e-olymp.com/en/contests/19316/problems/207757]
 4. Smallest string with a given numeric value [https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/]
+5. B. Nezzar and Lucky Number [ https://codeforces.com/contest/1478/problem/B]
