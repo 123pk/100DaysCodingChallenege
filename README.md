@@ -402,5 +402,5 @@ My rating on the following sites are as follows we will check the change due to 
 
 **Day60**
 
-1. Vertical order traversal of binary tree 
+1. Vertical order traversal of binary tree [https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/]
 2. A - K Divisible sum [https://codeforces.com/contest/1476/problem/A]
