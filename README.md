@@ -404,3 +404,12 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Vertical order traversal of binary tree [https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/]
 2. A - K Divisible sum [https://codeforces.com/contest/1476/problem/A]
+3. B - Inflation  [https://codeforces.com/contest/1476/problem/B]
+
+**Day61**
+
+1. A - Very Very Primitive Game [https://atcoder.jp/contests/abc190/tasks/abc190_a]
+2. B - Magic3 [https://atcoder.jp/contests/abc190/tasks/abc190_b]
+3. D - Staircase Sequence [https://atcoder.jp/contests/abc190/tasks/abc190_d]
+4. Discount in shop [https://www.codechef.com/AIMICPC?itm_campaign=contest_listing]
+5. Select Training Set [https://www.codechef.com/AIMICPC?itm_campaign=contest_listing]
