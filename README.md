@@ -422,4 +422,8 @@ My rating on the following sites are as follows we will check the change due to 
 4. Restore Array from Adjacent pairs [https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/]
 5. Maxinum number of Balls in Box [https://leetcode.com/problems/maximum-number-of-balls-in-a-box/]
 
+**Day63**
 
+1. Binary Subsequence [https://www.codechef.com/LTIME92B/problems/BINSUBS]
+2. Dreams of Divisibility [ https://www.codechef.com/LTIME92B/problems/DREDIV]
+3. Number of 1 Bits [https://leetcode.com/problems/number-of-1-bits/]
