@@ -413,3 +413,13 @@ My rating on the following sites are as follows we will check the change due to 
 3. D - Staircase Sequence [https://atcoder.jp/contests/abc190/tasks/abc190_d]
 4. Discount in shop [https://www.codechef.com/AIMICPC?itm_campaign=contest_listing]
 5. Select Training Set [https://www.codechef.com/AIMICPC?itm_campaign=contest_listing]
+
+**Day62**
+
+1. Even Difference [https://www.codechef.com/LTIME92B/problems/EVENDIFF]
+2. Even sum [https://www.codechef.com/LTIME92B/problems/EVENGAME]
+3. Palindrome Partitioning IV [ https://leetcode.com/problems/palindrome-partitioning-iv/]
+4. Restore Array from Adjacent pairs [https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/]
+5. Maxinum number of Balls in Box [https://leetcode.com/problems/maximum-number-of-balls-in-a-box/]
+
+
