@@ -427,3 +427,12 @@ My rating on the following sites are as follows we will check the change due to 
 1. Binary Subsequence [https://www.codechef.com/LTIME92B/problems/BINSUBS]
 2. Dreams of Divisibility [ https://www.codechef.com/LTIME92B/problems/DREDIV]
 3. Number of 1 Bits [https://leetcode.com/problems/number-of-1-bits/]
+
+**Day64**
+
+1. Trim a Binary Search Tree  [https://leetcode.com/problems/trim-a-binary-search-tree/]
+
+**Day65**
+
+1. Lined List Cycle [https://leetcode.com/problems/linked-list-cycle/]
+2. Metreology stataion [https://www.codechef.com/problems/CHEFTEMP]
