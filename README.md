@@ -447,3 +447,4 @@ My rating on the following sites are as follows we will check the change due to 
 1. Grid Escape [https://codingcompetitions.withgoogle.com/codejamio/round/0000000000050fc5/0000000000054e9c]
 2. A - Space Navigation [https://codeforces.com/contest/1481/problem/A]
 3. B - New Colony [https://codeforces.com/contest/1481/problem/B]
+4. Create Targeted Array in Given Order [https://leetcode.com/problems/create-target-array-in-the-given-order/]
