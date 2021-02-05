@@ -436,3 +436,12 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Lined List Cycle [https://leetcode.com/problems/linked-list-cycle/]
 2. Metreology stataion [https://www.codechef.com/problems/CHEFTEMP]
+
+**Day66**
+
+1. Longest Harmonic Subsequence [https://leetcode.com/problems/longest-harmonious-subsequence/]
+2. Longest Common Prefix [https://leetcode.com/problems/longest-common-prefix/]
+
+**Day67**
+
+1. Grid Escape [https://codingcompetitions.withgoogle.com/codejamio/round/0000000000050fc5/0000000000054e9c]
