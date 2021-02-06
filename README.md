@@ -448,3 +448,8 @@ My rating on the following sites are as follows we will check the change due to 
 2. A - Space Navigation [https://codeforces.com/contest/1481/problem/A]
 3. B - New Colony [https://codeforces.com/contest/1481/problem/B]
 4. Create Targeted Array in Given Order [https://leetcode.com/problems/create-target-array-in-the-given-order/]
+
+**Day68**
+
+1. A - Vanish Pitch [https://atcoder.jp/contests/abc191/tasks/abc191_a]
+2. B - Remove it [https://atcoder.jp/contests/abc191/tasks/abc191_b]
