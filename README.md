@@ -453,3 +453,7 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. A - Vanish Pitch [https://atcoder.jp/contests/abc191/tasks/abc191_a]
 2. B - Remove it [https://atcoder.jp/contests/abc191/tasks/abc191_b]
+3. Binary Tree Right side View [https://leetcode.com/problems/binary-tree-right-side-view/]
+4. Minimum Length of string after deleting similar ends [https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/]
+5. Maximum Absolute sum of any subarray [https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/]
+6. Sum of Unique Elements [https://leetcode.com/problems/sum-of-unique-elements/]
