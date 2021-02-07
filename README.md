@@ -464,3 +464,4 @@ My rating on the following sites are as follows we will check the change due to 
 2. Maximum Score from removing stones [https://leetcode.com/problems/maximum-score-from-removing-stones/]
 3. Largest Merge of Two string [https://leetcode.com/problems/largest-merge-of-two-strings/]
 4. A - Yet Another string Game [https://codeforces.com/contest/1480/problem/A]
+5. Shortest Distance to a Character [https://leetcode.com/problems/shortest-distance-to-a-character/]
