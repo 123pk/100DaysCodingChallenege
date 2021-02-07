@@ -463,3 +463,4 @@ My rating on the following sites are as follows we will check the change due to 
 1. Check if Array is Sorted and Rotated [https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/]
 2. Maximum Score from removing stones [https://leetcode.com/problems/maximum-score-from-removing-stones/]
 3. Largest Merge of Two string [https://leetcode.com/problems/largest-merge-of-two-strings/]
+4. A - Yet Another string Game [https://codeforces.com/contest/1480/problem/A]
