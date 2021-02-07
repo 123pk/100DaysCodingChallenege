@@ -457,3 +457,9 @@ My rating on the following sites are as follows we will check the change due to 
 4. Minimum Length of string after deleting similar ends [https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/]
 5. Maximum Absolute sum of any subarray [https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/]
 6. Sum of Unique Elements [https://leetcode.com/problems/sum-of-unique-elements/]
+
+**Day69**
+
+1. Check if Array is Sorted and Rotated [https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/]
+2. Maximum Score from removing stones [https://leetcode.com/problems/maximum-score-from-removing-stones/]
+3. Largest Merge of Two string [https://leetcode.com/problems/largest-merge-of-two-strings/]
