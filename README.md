@@ -465,3 +465,13 @@ My rating on the following sites are as follows we will check the change due to 
 3. Largest Merge of Two string [https://leetcode.com/problems/largest-merge-of-two-strings/]
 4. A - Yet Another string Game [https://codeforces.com/contest/1480/problem/A]
 5. Shortest Distance to a Character [https://leetcode.com/problems/shortest-distance-to-a-character/]
+
+**Day70**
+
+1. Remove Element [ https://leetcode.com/problems/remove-element/]
+
+**Day71**
+
+1. MAXFUN [https://www.codechef.com/FEB21B/problems/MAXFUN]
+2. Frog Sort [https://www.codechef.com/FEB21B/problems/FROGS]
+3. Team Name [https://www.codechef.com/FEB21B/problems/TEAMNAME]
