@@ -1,9 +1,3 @@
-/*
-Platform :- Hackerearth
-Contest :- February easy
-Problem :- Alice and Candies
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -18,7 +12,7 @@ int main(){
 		 d+=2;
 		 z++;
 	 }
-	 
+	// cout<<z<<endl;
 	 if(n%2==0){
            int d=2;
 		   int ans=0;
@@ -26,7 +20,7 @@ int main(){
 			   if(n%d==0){
                   int c=d/2;
 				  int k=c;
-				  long int temp1=n/2,temp2=n/2;
+				  long int temp1=n/d,temp2=n/d;
 				  if(temp1%2==0){
 				      temp1--;
 				  }
@@ -37,7 +31,7 @@ int main(){
 				      temp2+=2;
 				  }
 				  long int temp=0;
-				  //cout<<temp1<<" "<<temp2<<endl;
+				 //  cout<<temp1<<" "<<temp2<<endl;
 				  for(long int i=temp1;i>1 && c>0;i-=2){
                       temp+=i;
 					  c--;
