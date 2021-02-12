@@ -487,3 +487,8 @@ My rating on the following sites are as follows we will check the change due to 
 1. PRIMEGAME [ https://www.codechef.com/FEB21B/problems/PRIGAME]
 2. Valid Anagram [https://leetcode.com/problems/valid-anagram/]
 
+**Day74**
+
+1. Number of Steps to Reduce a Number to Zero [ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/]
+2. A - Add and Divide [ https://codeforces.com/contest/1485/problem/A]
+3. B - Replace and Keep Sorted [ https://codeforces.com/contest/1485/problem/B]
