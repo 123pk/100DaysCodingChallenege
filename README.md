@@ -481,3 +481,9 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Alice and Candies [https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lola-and-candies-36b57b1b/]
 2. Deleting Arrays [https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/array-deletion-2-aee9dffe/]
+
+**Day73**
+
+1. PRIMEGAME [ https://www.codechef.com/FEB21B/problems/PRIGAME]
+2. Valid Anagram [https://leetcode.com/problems/valid-anagram/]
+
