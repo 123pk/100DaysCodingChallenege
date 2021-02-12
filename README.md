@@ -476,3 +476,8 @@ My rating on the following sites are as follows we will check the change due to 
 2. Frog Sort [https://www.codechef.com/FEB21B/problems/FROGS]
 3. Team Name [https://www.codechef.com/FEB21B/problems/TEAMNAME]
 4. Convert BST to Greater Tree [https://leetcode.com/problems/convert-bst-to-greater-tree/]
+
+**Day72**
+
+1. Alice and Candies [https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lola-and-candies-36b57b1b/]
+2. Deleting Arrays [https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/array-deletion-2-aee9dffe/]
