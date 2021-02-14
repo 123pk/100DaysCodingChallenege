@@ -501,3 +501,5 @@ My rating on the following sites are as follows we will check the change due to 
 **Day76**
 
 1. SlotMachineHacking [https://arena.topcoder.com/#/u/viewCode/18497/170071/2/335462/pkpawan/details]
+2. Minimum Changes to make alternating binary string [https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/]
+3. Count number of homogeneous strings [https://leetcode.com/problems/count-number-of-homogenous-substrings/]
