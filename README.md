@@ -503,3 +503,19 @@ My rating on the following sites are as follows we will check the change due to 
 1. SlotMachineHacking [https://arena.topcoder.com/#/u/viewCode/18497/170071/2/335462/pkpawan/details]
 2. Minimum Changes to make alternating binary string [https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/]
 3. Count number of homogeneous strings [https://leetcode.com/problems/count-number-of-homogenous-substrings/]
+
+**Day77**
+
+1. A - Arena [https://codeforces.com/contest/1487/problem/A]
+
+**Day78**
+
+1. The Kth Weakest Row in Matrix [https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/]
+
+**Day79**
+
+1. Conntainer with most water [https://leetcode.com/problems/container-with-most-water/]
+2. A - Dense Array [https://codeforces.com/contest/1490/problem/A]
+3. B - Balanced Remainders [https://codeforces.com/contest/1490/problem/B]
+4. C - Sum of Cubes [https://codeforces.com/contest/1490/problem/C]
+5. D - Permutation Transformation [https://codeforces.com/contest/1490/problem/D]
