@@ -1,6 +1,6 @@
 /*
 Platform :- Codeforces
-Contest :- Codeforces Round 703 Div 3 
+Contest :- Codeforces Round 702 Div 3 
 Problem :- C - Sum of Cubes 
 */
 
