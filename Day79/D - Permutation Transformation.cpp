@@ -1,6 +1,6 @@
 /*
 Platform :- Codeforces
-Contest :- Codeforces round 703 Div 3
+Contest :- Codeforces round 702 Div 3
 Problem :- D - Permutation Transformation
 */
 
