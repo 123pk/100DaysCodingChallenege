@@ -1,6 +1,6 @@
 /*
 Platform :- Codeforces
-Contest :- Codeforces Round 703 Div 2 
+Contest :- Codeforces Round 702 Div 3
 Problem :- A - Dense Array
 */
 
