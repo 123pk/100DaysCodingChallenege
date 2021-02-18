@@ -519,3 +519,7 @@ My rating on the following sites are as follows we will check the change due to 
 3. B - Balanced Remainders [https://codeforces.com/contest/1490/problem/B]
 4. C - Sum of Cubes [https://codeforces.com/contest/1490/problem/C]
 5. D - Permutation Transformation [https://codeforces.com/contest/1490/problem/D]
+
+**Day80**
+
+1. B - Cat Cycle [https://codeforces.com/contest/1487/problem/B]
