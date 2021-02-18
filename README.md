@@ -525,3 +525,4 @@ My rating on the following sites are as follows we will check the change due to 
 1. B - Cat Cycle [https://codeforces.com/contest/1487/problem/B]
 2. A - Shifting stacks [https://codeforces.com/contest/1486/problem/A]
 3. E - Accidental Victory [https://codeforces.com/contest/1490/problem/E]
+4. Arithmetic Slices [https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3644/]
