@@ -530,3 +530,8 @@ My rating on the following sites are as follows we will check the change due to 
 **Day81**
 1. B - Eastern Exhibition [https://codeforces.com/contest/1486/problem/B]
 2. Minimum remove to make valid parentheses [https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/]
+
+**Day82**
+
+1. A - Star [https://atcoder.jp/contests/abc192/tasks/abc192_a]
+2. 
