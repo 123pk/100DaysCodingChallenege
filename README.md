@@ -534,4 +534,5 @@ My rating on the following sites are as follows we will check the change due to 
 **Day82**
 
 1. A - Star [https://atcoder.jp/contests/abc192/tasks/abc192_a]
-2. 
+2. B - uNrEaDaBlE sTrInG [https://atcoder.jp/contests/abc192/tasks/abc192_b]
+3. 
