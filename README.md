@@ -535,4 +535,4 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. A - Star [https://atcoder.jp/contests/abc192/tasks/abc192_a]
 2. B - uNrEaDaBlE sTrInG [https://atcoder.jp/contests/abc192/tasks/abc192_b]
-3. 
+3. C - Kaprekar Number [https://atcoder.jp/contests/abc192/tasks/abc192_c]
