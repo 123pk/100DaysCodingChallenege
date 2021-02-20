@@ -1,0 +1,17 @@
+/*
+Platform :- Atcoder
+Contest :- Atcoder Beginner contest 192
+Problem :- A - Star
+*/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    long long n;
+    cin>>n;
+    
+    long long z=n%100;
+    z=100-z;
+    cout<<z<<endl;
+}
