@@ -1,6 +1,6 @@
 /*
 Platform :- Leetcode
-Event:- February Daily challenge
+Event:- February Daily Challenge
 Problem :- Broken Calculator
 */
 
