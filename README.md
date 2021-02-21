@@ -540,4 +540,6 @@ My rating on the following sites are as follows we will check the change due to 
 **Day83**
 
 1. Form Array by Concatenating Subarrays of Another Array [https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/]
-2. 
+2. Merge string Alternately [https://leetcode.com/problems/merge-strings-alternately/]
+3. Minimum number of operation sto move all ball to each box [https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/]
+4. Broken Calculator [https://leetcode.com/problems/broken-calculator/]
