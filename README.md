@@ -543,3 +543,7 @@ My rating on the following sites are as follows we will check the change due to 
 2. Merge string Alternately [https://leetcode.com/problems/merge-strings-alternately/]
 3. Minimum number of operation sto move all ball to each box [https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/]
 4. Broken Calculator [https://leetcode.com/problems/broken-calculator/]
+
+**Day84**
+
+ 1. Longest word in Dictionary through deleting [https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/]
