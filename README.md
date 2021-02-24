@@ -553,4 +553,4 @@ My rating on the following sites are as follows we will check the change due to 
 **Day85**
 
 1. A - Three swimmers [https://codeforces.com/contest/1492/problem/A]
-2. 
+2. The smallest string [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
