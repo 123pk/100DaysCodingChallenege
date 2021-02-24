@@ -549,3 +549,8 @@ My rating on the following sites are as follows we will check the change due to 
  1. Longest word in Dictionary through deleting [https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/]
 2. Robotic moves [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
 3. The smallest permutation [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
+
+**Day85**
+
+1. A - Three swimmers [https://codeforces.com/contest/1492/problem/A]
+2. 
