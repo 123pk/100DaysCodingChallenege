@@ -1,6 +1,6 @@
 /*
 Platform :- Hackerearth
-contest :- Hackerearth February circuit 
+contest :- Hackerearth February Circuit 
 Problem :- A XOR value
 
 
