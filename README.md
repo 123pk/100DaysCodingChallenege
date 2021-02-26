@@ -558,5 +558,5 @@ My rating on the following sites are as follows we will check the change due to 
 **Day86**
 
 1. BMI [https://www.codechef.com/CCRC21B/problems/BMI]
-2. CHEFPAT
+2. CHEFPAT  [https://www.codechef.com/CCRC21B/problems/CHEFPAT]
 3. TOTSCR  [https://www.codechef.com/CCRC21B/problems/TOTSCR]
