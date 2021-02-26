@@ -559,4 +559,4 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. BMI [https://www.codechef.com/CCRC21B/problems/BMI]
 2. CHEFPAT
-3. TOTSCR
+3. TOTSCR  [https://www.codechef.com/CCRC21B/problems/TOTSCR]
