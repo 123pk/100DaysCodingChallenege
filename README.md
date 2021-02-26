@@ -554,3 +554,9 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. A - Three swimmers [https://codeforces.com/contest/1492/problem/A]
 2. The smallest string [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
+
+**Day86**
+
+1. BMI [https://www.codechef.com/CCRC21B/problems/BMI]
+2. CHEFPAT
+3. TOTSCR
