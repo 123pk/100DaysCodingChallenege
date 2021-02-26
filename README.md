@@ -560,3 +560,12 @@ My rating on the following sites are as follows we will check the change due to 
 1. BMI [https://www.codechef.com/CCRC21B/problems/BMI]
 2. CHEFPAT  [https://www.codechef.com/CCRC21B/problems/CHEFPAT]
 3. TOTSCR  [https://www.codechef.com/CCRC21B/problems/TOTSCR]
+
+**Day87**
+
+1. A Xor Value [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
+
+**Day88**
+
+1. Shortest unsoted contiguous array [https://leetcode.com/problems/shortest-unsorted-continuous-subarray/]
+2. Validate stack sequence [https://leetcode.com/problems/validate-stack-sequences/]
