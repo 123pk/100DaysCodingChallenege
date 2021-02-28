@@ -1,7 +1,7 @@
 /*
 Platform :- Leetcode
 Problem :- Count Items Matching Rule
-Contest :- 
+Contest :- Weekly contest 230
 */
 
 class Solution {
