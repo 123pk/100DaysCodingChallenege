@@ -580,3 +580,9 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Count items matching rule [https://leetcode.com/problems/count-items-matching-a-rule/]
 2. Equal sum Arrays with Minimum number of operation [https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/]
+
+**Day91**
+
+1. A - kth Largest Value [https://codeforces.com/contest/1491/problem/A]
+2. B - minimal Cost [https://codeforces.com/contest/1491/problem/B]
+3. Distribute Candies [https://leetcode.com/problems/distribute-candies/]
