@@ -575,3 +575,8 @@ My rating on the following sites are as follows we will check the change due to 
 1. A - Broken Keyboard [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
 2. Array Operations [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
 3. B - Card Deck [https://codeforces.com/contest/1492/problem/B]
+
+**Day90**
+
+1. Count items matching rule [https://leetcode.com/problems/count-items-matching-a-rule/]
+2. Equal sum Arrays with Minimum number of operation [https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/]
