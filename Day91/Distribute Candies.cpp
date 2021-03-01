@@ -1,7 +1,7 @@
 /*
 Platform :- Leetcode
 Problem :- Distribute Candies
-Event :- March Challenge
+Event :- March Challenge Day1 
 */
 
 class Solution {
