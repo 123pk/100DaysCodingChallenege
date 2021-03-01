@@ -569,3 +569,9 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Shortest unsoted contiguous array [https://leetcode.com/problems/shortest-unsorted-continuous-subarray/]
 2. Validate stack sequence [https://leetcode.com/problems/validate-stack-sequences/]
+
+**Day89**
+
+1. A - Broken Keyboard [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
+2. Array Operations [https://www.hackerearth.com/challenges/competitive/february-circuits-21-2/problems/]
+3. B - Card Deck [https://codeforces.com/contest/1492/problem/B]
