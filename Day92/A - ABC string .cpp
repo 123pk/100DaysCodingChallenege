@@ -1,6 +1,6 @@
 /*
 Platform :- Codeforces
-Problem :- A - ABC
+Problem :- A - ABC string
 Contest :- 
 */
 
