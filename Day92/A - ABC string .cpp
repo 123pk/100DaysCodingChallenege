@@ -1,7 +1,7 @@
 /*
 Platform :- Codeforces
 Problem :- A - ABC string
-Contest :- 
+Contest :- Educational Contest
 */
 
 #include<bits/stdc++.h>
