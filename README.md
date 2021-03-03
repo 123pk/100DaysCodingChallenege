@@ -586,3 +586,8 @@ My rating on the following sites are as follows we will check the change due to 
 1. A - kth Largest Value [https://codeforces.com/contest/1491/problem/A]
 2. B - minimal Cost [https://codeforces.com/contest/1491/problem/B]
 3. Distribute Candies [https://leetcode.com/problems/distribute-candies/]
+
+**Day92**
+
+1. A - ABC string [https://codeforces.com/contest/1494/problem/A]
+2. Set Mismatch [https://leetcode.com/problems/set-mismatch/]
