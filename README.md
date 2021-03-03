@@ -591,3 +591,8 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. A - ABC string [https://codeforces.com/contest/1494/problem/A]
 2. Set Mismatch [https://leetcode.com/problems/set-mismatch/]
+
+**Day93**
+
+1. Chef and Coupon (COUPON2) [https://www.codechef.com/START1B/problems/COUPON2]
+2. Maximum Value [https://www.codechef.com/START1B/problems/MVALUE]
