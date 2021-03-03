@@ -596,3 +596,4 @@ My rating on the following sites are as follows we will check the change due to 
 
 1. Chef and Coupon (COUPON2) [https://www.codechef.com/START1B/problems/COUPON2]
 2. Maximum Value [https://www.codechef.com/START1B/problems/MVALUE]
+3. Missing Number
