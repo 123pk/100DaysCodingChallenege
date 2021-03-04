@@ -1,7 +1,7 @@
 /*
 Platform :- Leetcode
 Problem :- Intersection of Two Linked Lists
-Event :- March Daily Challenege
+Event :- March Daily Challenge
 */
 
  
