@@ -1,5 +1,6 @@
 /*
 Platform :- Atcoder
+Contest :- Atcoder Beginner Contest 194
 Problem :- A  - I Scream
 */
 
