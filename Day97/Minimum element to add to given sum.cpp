@@ -1,7 +1,7 @@
 /*
 Pltform :- Leetcode
 Problem :- Minimum elemnts to add to given sum
-Contest :- Weekly contest
+Contest :- Weekly contest 231
 */
 
 class Solution {
