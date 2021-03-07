@@ -1,7 +1,7 @@
 /*
 Platform :- Leetcode
 Problem :- Check if binary string has atmost one segment of ones
-Contest:- Weekly contest 
+Contest:- Weekly contest 231
 */
 
 class Solution {
