@@ -621,3 +621,8 @@ My rating on the following sites are as follows we will check the change due to 
 2. check if binary string has atmost one segment of ones [https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/]
 3. Binary tree level order traversal [https://leetcode.com/problems/binary-tree-level-order-traversal/]
 4. Binary tree zig zag level order traversal [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/]
+
+**Day98**
+
+1. B - Planet Lapituletti [https://codeforces.com/contest/1493/problem/B]
+2. Tidy Numbers [https://codingcompetitions.withgoogle.com/codejam/round/00000000002017f7/0000000000201878]
