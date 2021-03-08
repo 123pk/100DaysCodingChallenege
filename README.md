@@ -614,3 +614,10 @@ My rating on the following sites are as follows we will check the change due to 
 4. C - Squared error [https://atcoder.jp/contests/abc194/tasks/abc194_c]
 5. Check if number is sum of power of 3 [https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/]
 6. Find the nearest point that has same X or Y coordinate [https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/]
+
+**Day97**
+
+1. Minimum element to add to given sum [https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/]
+2. check if binary string has atmost one segment of ones [https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/]
+3. Binary tree level order traversal [https://leetcode.com/problems/binary-tree-level-order-traversal/]
+4. Binary tree zig zag level order traversal [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/]
