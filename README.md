@@ -605,3 +605,12 @@ My rating on the following sites are as follows we will check the change due to 
 **Day95**
 
 1. Average Levels in Binary Tree [https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/]
+
+**Day96**
+
+1. A - Anti Knapsack [https://codeforces.com/contest/1493/problem/A]
+2. A - IScream [https://atcoder.jp/contests/abc194/tasks/abc194_a]
+3. B - Job Asignment [https://atcoder.jp/contests/abc194/tasks/abc194_b]
+4. C - Squared error [https://atcoder.jp/contests/abc194/tasks/abc194_c]
+5. Check if number is sum of power of 3 [https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/]
+6. Find the nearest point that has same X or Y coordinate [https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/]
