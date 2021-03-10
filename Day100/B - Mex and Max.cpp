@@ -2,6 +2,7 @@
 Platform :- Codeforces
 Problem :- B - Max and Mex
 Contest :- Codeforces Round 706 #Div 2
+Note :- stay attention in rounding up !!
 */
 
 #include<bits/stdc++.h>
