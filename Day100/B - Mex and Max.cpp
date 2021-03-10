@@ -1,7 +1,7 @@
 /*
 Platform :- Codeforces
 Problem :- B - Max and Mex
-Contest :- Codeforces Round #706 Div 2
+Contest :- Codeforces Round 706 #Div 2
 */
 
 #include<bits/stdc++.h>
