@@ -1,7 +1,7 @@
 /*
 Platform :- Codeforces
 Problem :- C - Diamond Miner
-Contest :- Codeforces Round #Div 2 706
+Contest :- Codeforces Round 706 #Div 2
 */
 
 #include<bits/stdc++.h>
