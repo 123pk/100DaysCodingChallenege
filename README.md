@@ -16,6 +16,10 @@ I will be solving atleast a coding problem daily
 I am starting this challenge on Dec 1 2020 . 
 My rating on the following sites are as follows we will check the change due to this challenge.
 
+SUCCESSFULLY COMPLETED #(100 DAYS CODING CHALLENGE)
+-> With more than 320+ problems solved in 100 days 
+-> aggregate +ve rating changes on competitive programming sites
+
 **Day 1**
 
  1.  Maximum Depth of Binary Tree  [  https://leetcode.com/problems/maximum-depth-of-binary-tree/ ]
