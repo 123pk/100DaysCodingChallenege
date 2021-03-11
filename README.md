@@ -636,3 +636,9 @@ SUCCESSFULLY COMPLETED #(100 DAYS CODING CHALLENGE)
 
 1.Counting sheeps [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bee/0000000000201c8a]
 2. Revenge of Pancake [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bee/0000000000201c8a]
+
+**Day100**
+
+1. A - split it!  [https://codeforces.com/contest/1496/problem/A]
+2. B - Mex and Max  [https://codeforces.com/contest/1496/problem/B]
+3. C - Diamond Miner [https://codeforces.com/contest/1496/problem/C]
