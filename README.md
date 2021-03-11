@@ -20,6 +20,15 @@ SUCCESSFULLY COMPLETED #(100 DAYS CODING CHALLENGE)
 -> With more than 320+ problems solved in 100 days 
 -> aggregate +ve rating changes on competitive programming sites
 
+New Ratings after 100 Days challenege :- 
+1. **Codechef** - **(pkpawan123 - 1805)
+2. **Atcoder** - **(pawankumarpk - 632)
+3. **Leetcode** - **(pkpawan - 1777)
+4. **Hackerearth** - **(pawanhero247 - 1550)
+5. **Hackerrank** - **(pawanhero237 - 1829)
+6. **Codeforces** - **( pk01 - 1173)
+7. **Topcoder**  - **(pkpawan - 726)
+
 **Day 1**
 
  1.  Maximum Depth of Binary Tree  [  https://leetcode.com/problems/maximum-depth-of-binary-tree/ ]
