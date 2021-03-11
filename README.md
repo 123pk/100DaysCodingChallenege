@@ -630,3 +630,9 @@ SUCCESSFULLY COMPLETED #(100 DAYS CODING CHALLENGE)
 
 1. B - Planet Lapituletti [https://codeforces.com/contest/1493/problem/B]
 2. Tidy Numbers [https://codingcompetitions.withgoogle.com/codejam/round/00000000002017f7/0000000000201878]
+3. Oversized Pancake Flipper [https://codingcompetitions.withgoogle.com/codejam/round/00000000002017f7]
+
+**Day99**
+
+1.Counting sheeps [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bee/0000000000201c8a]
+2. 
